@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(147, 3, 190);
+    color: white;
+}
+.centered{
+    text-align: center;
+}
+.start{
+    position: relative;
+    top: 50px;
+    text-align: center;
+    border: 1px solid green;
+    width: fit-content;
+    margin: auto;
+    padding: 30px;
+    
+}
+#button{
+    width: 300px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: greenyellow;
+}
+#options {
+    width: 150px;
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 50px;
+}
+.container-1{
+    
+    align-items: center;
+    width: fit-content;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+}
+.opt{
+    align-items: center;
+    padding: 10px  20px;
+}
+#option1 {
+    width: 150px;
+    padding: 10px;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 50px;
+}
+#option2 {
+    width: 150px;
+    padding: 10px;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 50px;
+}
+#option3 {
+    width: 150px;
+    padding: 10px;
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 50px;
+}
+#option4 {
+    width: 150px;
+    padding: 10px;
+    color: white;
+    background-color:lightseagreen;
+    border-radius: 50px;
+}
+
+.newww{
+    color: hotpink;
+    background-color: lawngreen;
+}
+#mark{
+    border: 1px solid blue;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    font-size: 100px;
+    font-weight: 1000;
+    text-align: center;
+
+}
+.nxt{
+    width: fit-content;
+    margin: auto;
+
+}
+.next{
+    border-radius: 15px;
+    background-color: grey;
+    color: white;
+}
