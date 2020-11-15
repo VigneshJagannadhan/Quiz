@@ -1,5 +1,6 @@
 body{
-    background-color: black;
+    background-image: url("logo.jpg");
+    background-size: cover;
     color: white;
 }
 .centered{
