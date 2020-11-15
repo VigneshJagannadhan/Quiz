@@ -3,7 +3,7 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    color:grey;
+    color:rgb(255, 255, 255);
 }
 h3{
     font-weight: 1000;
