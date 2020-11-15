@@ -1,7 +1,6 @@
 body{
     background-color: black;
     color: white;
-    border: 1px solid white;
 }
 .centered{
     text-align: center;
@@ -10,20 +9,10 @@ body{
 .start{
     position: relative;
     text-align: center;
-    width: fit-content;
+    width: 100%;
     margin: auto;
-    padding: 10px;
     border: 1px solid green;
     
-}
-#button{
-    width: 300px;
-    height: 50px;
-    border-radius: 15px;
-    background-color: greenyellow;
-    position: relative;
-    top: 100px;
-    border: 1px solid white;
 }
 #options {
     width: 150px;
@@ -31,20 +20,21 @@ body{
     color: white;
     background-color: red;
     border-radius: 50px;
-    border: 1px solid white;
+    border: 1px solid blue;
 }
 .container-1{
     
     align-items: center;
-    width: fit-content;
+    width: 100%;
     padding: 20px;
     position: relative;
     margin: auto;
+    border: 1px solid darkorchid;
 }
 .opt{
     align-items: center;
     padding: 10px  20px;
-    border: 1px solid white;
+    border: 1px solid rgb(246, 250, 12);
 }
 #option1 {
     width: 300px;
@@ -108,5 +98,6 @@ body{
 .full{
     width: fit-content;
     border: 1px solid darkorange;
+    width: 400px;
     margin: auto;
 }
