@@ -1,9 +1,11 @@
 body{
     background-color: black;
     color: white;
+    border: 1px solid white;
 }
 .centered{
     text-align: center;
+    border: 1px solid white;
 }
 .start{
     position: relative;
@@ -11,6 +13,7 @@ body{
     width: fit-content;
     margin: auto;
     padding: 10px;
+    border: 1px solid white;
     
 }
 #button{
@@ -20,6 +23,7 @@ body{
     background-color: greenyellow;
     position: relative;
     top: 100px;
+    border: 1px solid white;
 }
 #options {
     width: 150px;
@@ -27,6 +31,7 @@ body{
     color: white;
     background-color: red;
     border-radius: 50px;
+    border: 1px solid white;
 }
 .container-1{
     
@@ -39,6 +44,7 @@ body{
 .opt{
     align-items: center;
     padding: 10px  20px;
+    border: 1px solid white;
 }
 #option1 {
     width: 300px;
@@ -68,15 +74,10 @@ body{
     background-color:lightseagreen;
     border-radius: 50px;
 }
-
-.newww{
-    color: hotpink;
-    background-color: lawngreen;
-}
 #mark{
     border: 5px solid white;
     padding: 20px;
-    width: 200px;
+    width: 436px;
     height: 200px;
     margin: auto;
     font-size: 100px;
@@ -88,6 +89,7 @@ body{
     width: fit-content;
     margin: auto;
     padding: 15px;
+    border: 1px solid white;
 }
 .next{
     width: 170px;
@@ -95,9 +97,11 @@ body{
     border-radius: 15px;
     background-color: grey;
     color: white;
+    border: 1px solid white;
     
 }
 .col{
     display: flex;
     flex-direction: column;
+    border: 1px solid white;
 }
