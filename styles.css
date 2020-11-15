@@ -5,7 +5,7 @@ body{
 }
 .centered{
     text-align: center;
-    border: 1px solid white;
+    border: 1px solid red;
 }
 .start{
     position: relative;
@@ -13,7 +13,7 @@ body{
     width: fit-content;
     margin: auto;
     padding: 10px;
-    border: 1px solid white;
+    border: 1px solid green;
     
 }
 #button{
@@ -104,4 +104,9 @@ body{
     display: flex;
     flex-direction: column;
     border: 1px solid white;
+}
+.full{
+    width: fit-content;
+    border: 1px solid darkorange;
+    margin: auto;
 }
