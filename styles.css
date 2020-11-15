@@ -1,8 +1,12 @@
 body{
     background-image: url("logo.jpg");
-    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    color: white;
+    color:grey;
+}
+h3{
+    font-weight: 1000;
 }
 .centered{
     text-align: center;
