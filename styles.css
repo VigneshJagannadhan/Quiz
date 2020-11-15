@@ -73,6 +73,10 @@ h3{
     border-radius: 50px;
     outline: none;
 }
+.inner{
+    padding: 20px;
+    text-align: center;
+}
 #mark{
     border: 5px solid white;
     padding: 20px;
