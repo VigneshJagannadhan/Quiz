@@ -1,8 +1,9 @@
 body{
     background-image: url("logo.jpg");
     background-attachment: fixed;
-    background-size: 100% 150%;
+    background-size: 150% 100%;
     background-repeat: no-repeat;
+    background-position: center;
     color:rgb(255, 255, 255);
     
 }
