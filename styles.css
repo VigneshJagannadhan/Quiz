@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(147, 3, 190);
+    background-color: black;
     color: white;
 }
 .centered{
@@ -7,9 +7,7 @@ body{
 }
 .start{
     position: relative;
-    top: 50px;
     text-align: center;
-    border: 1px solid green;
     width: fit-content;
     margin: auto;
     padding: 30px;
@@ -20,6 +18,8 @@ body{
     height: 50px;
     border-radius: 15px;
     background-color: greenyellow;
+    position: relative;
+    top: 100px;
 }
 #options {
     width: 150px;
@@ -74,7 +74,7 @@ body{
     background-color: lawngreen;
 }
 #mark{
-    border: 1px solid blue;
+    border: 5px solid white;
     padding: 20px;
     width: 200px;
     height: 200px;
@@ -82,15 +82,18 @@ body{
     font-size: 100px;
     font-weight: 1000;
     text-align: center;
-
+    background-color: grey;
 }
 .nxt{
     width: fit-content;
     margin: auto;
-
+    padding: 15px;
 }
 .next{
+    width: 170px;
+    height: 50px;
     border-radius: 15px;
     background-color: grey;
     color: white;
+    
 }
