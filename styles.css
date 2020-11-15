@@ -4,15 +4,12 @@ body{
 }
 .centered{
     text-align: center;
-    border: 1px solid red;
 }
 .start{
     position: relative;
     text-align: center;
     width: 100%;
-    margin: auto;
-    border: 1px solid green;
-    
+    margin: auto;   
 }
 #button{
     width: 300px;
@@ -21,15 +18,6 @@ body{
     background-color: greenyellow;
     position: relative;
     top: 100px;
-    border: 1px solid blue;
-}
-#options {
-    width: 150px;
-    padding: 10px;
-    color: white;
-    background-color: red;
-    border-radius: 50px;
-    border: 1px solid blue;
 }
 .container-1{
     
@@ -42,7 +30,6 @@ body{
 .opt{
     align-items: center;
     padding: 10px  20px;
-    border: 1px solid white;
 }
 #option1 {
     width: 250px;
@@ -94,14 +81,11 @@ body{
     height: 50px;
     border-radius: 15px;
     background-color: grey;
-    color: white;
-    border: 1px solid white;
-    
+    color: white;   
 }
 .col{
     display: flex;
     flex-direction: column;
-    border: 1px solid white;
 }
 .full{
     width: fit-content;
