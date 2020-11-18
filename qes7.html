@@ -9,24 +9,27 @@
     <script src="script.js"></script>
     <title>Social_Yard Quiz</title>
 </head>
-<body onload="linker()">
+<body>
     
 <div class="full">
-    <h1 id="centered">
-        1
+    <h1 class="centered">
+        Question 7!
     </h1>
     <div id="mark">
         <h1 id="answer"></h1>
+    </div>
+    <div class="nxt">
+        <button class="next" onclick="window.location.href='qes8.html'">Next Question</button>
     </div>
     <div class="start">
             <h3>1. What does CSS stand for?</h3>
         <div>
             <div class="container-1">
                 <div class="col">
-                    <div class="opt"><button id="option1" onclick="wrong(); linker();" >Compressed style sheet</button></div>
-                    <div class="opt"><button id="option2" onclick="right(); linker();" >Cascaded style sheet</button></div>
-                    <div class="opt"><button id="option3" onclick="wrong(); linker();">Cascaded script sheet </button></div>
-                    <div class="opt"><button id="option4" onclick="wrong(); linker();" >Compressed style script</button></div>
+                    <div class="opt"><button id="option1" onclick="wrong()">Compressed style sheet</button></div>
+                    <div class="opt"><button id="option2" onclick="right()" >Cascaded style sheet</button></div>
+                    <div class="opt"><button id="option3" onclick="wrong()">Cascaded script sheet </button></div>
+                    <div class="opt"><button id="option4" onclick="wrong()" >Compressed style script</button></div>
                 </div>
             </div>
         </div>

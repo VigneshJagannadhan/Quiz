@@ -10,7 +10,7 @@ body{
 h3{
     font-weight: 1000;
 }
-.centered{
+#centered{
     text-align: center;
 }
 .start{
@@ -23,9 +23,9 @@ h3{
 }
 #button{
     width: 300px;
-    height: 50px;
-    border-radius: 15px;
-    background-color: greenyellow;
+    height: 70px;
+    border-radius: 15px 0 15px 0;
+    background-color: white;
     position: relative;
     top: 100px;
     outline: none;
@@ -94,7 +94,7 @@ h3{
     margin: auto;
     padding: 15px;
 }
-.next{
+#next{
     width: 170px;
     height: 50px;
     border-radius: 15px;
@@ -110,4 +110,8 @@ h3{
     width: fit-content;
     width: 380px;
     margin: auto;
+}
+#GFG{
+    color: black;
+    
 }
